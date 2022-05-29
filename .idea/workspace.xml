@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="change profile">
-      <change afterPath="$PROJECT_DIR$/data/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="Add file -&gt; .gitkeep">
+      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="change profile" />
-    <option name="LAST_COMMIT_MESSAGE" value="change profile" />
+    <MESSAGE value="Add file -&gt; .gitkeep" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file -&gt; .gitkeep" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
