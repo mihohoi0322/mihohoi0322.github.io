@@ -4,10 +4,12 @@
 #theme = "congo"
 baseURL = "https://mihohoi0322.github.io/"
 defaultContentLanguage = "en"
-
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+# GitHub
+publishDir = "docs"
+canonifyurls = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
