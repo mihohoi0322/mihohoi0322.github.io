@@ -5,53 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="docs">
-      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/css/main.bundle.min.d833798fe0375c951e2263507e974b2447b44a27a5350a248f5eb230282530f98fdd63c3d0f6bb05f8e68c1a95c6671cd646d054beed00f702004280001f078d.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/img/author_hu4ea2c27e9ba952f0e356a55ba60eabfb_83350_192x192_fill_q75_box_smart1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/img/author_hu4ea2c27e9ba952f0e356a55ba60eabfb_83350_288x288_fill_q75_box_smart1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/js/appearance.min.4df8309499991be53c71b2b39ba0f5d5e77ea7d411d0710ce48c24218e7cc24ded28f19e85838fdc56db2306195cb001f049f577be0cf0ffb2dd6e2037ede1b9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/note/firstnote/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/note/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/note/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/note/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/note/sample/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/about/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/about/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/first/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/first/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/first/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/new/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/new/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/new/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/note/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/note/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/note/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/welcome/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/welcome/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/welcome/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/techlog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/techlog/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/techlog/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/techlog/techtest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/note/sample.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/note/sample.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
