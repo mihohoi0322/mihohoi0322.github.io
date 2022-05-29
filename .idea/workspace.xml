@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="記事削除">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/note/firstnote/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/note/sample/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/techlog/techtest/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
