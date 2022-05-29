@@ -15,9 +15,9 @@ dateFormat = "2 January 2006"
 [author]
 name = "miho"
 image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -56,7 +56,7 @@ image = "img/author.jpg"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
+  { twitter = "https://twitter.com/Danny_miho" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+]
