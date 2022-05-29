@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="publishDir">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" afterDir="false" />
+    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="docs">
       <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/android-chrome-192x192.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/android-chrome-512x512.png" afterDir="false" />
@@ -52,14 +51,20 @@
       <change afterPath="$PROJECT_DIR$/docs/techlog/index.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/techlog/page/1/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/techlog/techtest/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/author_hu4ea2c27e9ba952f0e356a55ba60eabfb_83350_192x192_fill_q75_box_smart1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/author_hu4ea2c27e9ba952f0e356a55ba60eabfb_83350_288x288_fill_q75_box_smart1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/note/sample.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/note/sample.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
@@ -78,6 +83,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
@@ -157,7 +163,9 @@
     <MESSAGE value="Add file -&gt; .gitkeep" />
     <MESSAGE value="baseURL" />
     <MESSAGE value="publishDir" />
-    <option name="LAST_COMMIT_MESSAGE" value="publishDir" />
+    <MESSAGE value="githubflow" />
+    <MESSAGE value="docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

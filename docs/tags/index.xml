@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on miso-soup</title>
+    <link>https://mihohoi0322.github.io/tags/</link>
+    <description>Recent content in Tags on miso-soup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 May 2022 13:53:44 +0900</lastBuildDate><atom:link href="https://mihohoi0322.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new</title>
+      <link>https://mihohoi0322.github.io/tags/new/</link>
+      <pubDate>Sun, 29 May 2022 13:53:44 +0900</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note</title>
+      <link>https://mihohoi0322.github.io/tags/note/</link>
+      <pubDate>Sun, 29 May 2022 13:53:44 +0900</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/tags/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://mihohoi0322.github.io/tags/about/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://mihohoi0322.github.io/tags/first/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://mihohoi0322.github.io/tags/welcome/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>note on miso-soup</title>
+    <link>https://mihohoi0322.github.io/tags/note/</link>
+    <description>Recent content in note on miso-soup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 May 2022 13:53:44 +0900</lastBuildDate><atom:link href="https://mihohoi0322.github.io/tags/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstnote</title>
+      <link>https://mihohoi0322.github.io/note/firstnote/</link>
+      <pubDate>Sun, 29 May 2022 13:53:44 +0900</pubDate>
+      
+      <guid>https://mihohoi0322.github.io/note/firstnote/</guid>
+      <description>はじめまして miho です。 ｀</description>
+    </item>
+    
+  </channel>
+</rss>
