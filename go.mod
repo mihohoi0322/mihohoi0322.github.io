@@ -1,4 +1,4 @@
-module github.com/mihohoi0322/miso-soup
+module github.com/mihohoi0322/mihohoi0322.github.io
 
 go 1.18
 
