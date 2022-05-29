@@ -11,5 +11,6 @@ summaryLength = 0
 # GitHub
 publishDir = "docs"
 canonifyurls = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
