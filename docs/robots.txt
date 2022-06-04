@@ -1,3 +1,1 @@
 User-agent: *
-Allow: /
-Sitemap: https://mihohoi0322.github.io/sitemap.xml
