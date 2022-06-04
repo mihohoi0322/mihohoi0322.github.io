@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="記事削除">
-      <change afterPath="$PROJECT_DIR$/content/note/img/20220604_beer.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="Markdown test">
       <change beforePath="$PROJECT_DIR$/content/note/001.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/note/001.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -122,7 +121,8 @@
     <MESSAGE value="githubflow" />
     <MESSAGE value="docs" />
     <MESSAGE value="記事削除" />
-    <option name="LAST_COMMIT_MESSAGE" value="記事削除" />
+    <MESSAGE value="Markdown test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Markdown test" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
