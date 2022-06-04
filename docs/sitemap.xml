@@ -2,41 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-      <url>
-            <loc>https://mihohoi0322.github.io/note/</loc>
-            <lastmod>2022-05-29T21:46:56+09:00</lastmod>
-            <priority>0</priority>
-          </url>
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/note/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-      <url>
-            <loc>https://mihohoi0322.github.io/note/001/</loc>
-            <lastmod>2022-05-29T21:46:56+09:00</lastmod>
-          </url>
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/note/001/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+  </url>
   
-    
-      <url>
-            <loc>https://mihohoi0322.github.io/</loc>
-            <lastmod>2022-05-29T21:46:56+09:00</lastmod>
-          </url>
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+  </url>
   
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/tags/new/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+  </url>
   
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/tags/note/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+  </url>
   
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/tags/</loc>
+    <lastmod>2022-05-29T21:46:56+09:00</lastmod>
+  </url>
   
-    
-      <url>
-            <loc>https://mihohoi0322.github.io/techlog/</loc>
-            <priority>0</priority>
-          </url>
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/techlog/</loc>
+    <priority>0</priority>
+  </url>
   
-    
+  <url>
+    <loc>https://mihohoi0322.github.io/categories/</loc>
+  </url>
   
 </urlset>
