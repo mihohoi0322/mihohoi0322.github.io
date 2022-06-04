@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae58a6a-5e63-4b7c-912f-8aadb267c3c8" name="変更" comment="記事削除">
+      <change afterPath="$PROJECT_DIR$/content/note/img/20220604_beer.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/note/001.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/note/001.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/miho/develop/miso-soup/content/techlog",
+    "last_opened_file_path": "/Users/miho/develop/miso-soup/content/note/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/note/img" />
       <recent name="$PROJECT_DIR$/content/techlog" />
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
